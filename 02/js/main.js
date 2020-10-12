@@ -9,5 +9,5 @@
 
     // scores = 10;  scores への再代入不可、配列の要素への再代入は可
 
-    console.log(scores.length)
+    console.log(scores.length);
 }

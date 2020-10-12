@@ -10,6 +10,11 @@
 <!-- List down your changes concisely -->
 - 
 - 
-## :camera: スクリーンショット
+
+## :memo:成果物
+### 第〇回
+#### :computer:ページURL
+
+#### :camera: スクリーンショット
 <!-- スタイルなどの変更の場合はスクリーンショットがあるとレビューしやすいです -->
 <!-- Changes in styles would be easier to review with screenshots! -->

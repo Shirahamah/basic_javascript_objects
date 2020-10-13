@@ -16,7 +16,7 @@
     https://shirahamah.github.io/basic_javascript_objects/05/  
 
 ### 06~10
-- [ ] 06 スプレっと構文を使ってみよう
+- [ ] 06 スプレット構文を使ってみよう
 - [ ] 07 分割代入を使ってみよう
 - [ ] 08 foeEach()を使ってみよう
 - [ ] 09 map()を使ってみよう

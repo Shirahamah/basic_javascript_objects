@@ -1,13 +1,13 @@
 ## 詳解javascript 基礎文法編 (全26回) 進捗確認
 
 ### 01~05
-- [ ] 01 配列を作ってみよう
-- [ ] 02 配列の要素にアクセスしてみよう
-- [ ] 03 配列とループ処理を組み合わせよう
-- [ ] 04 配列の要素を変更してみよう
-- [ ] 05 splice()で配列を変更してみよう
+- [x] 01 配列を作ってみよう
+- [x] 02 配列の要素にアクセスしてみよう
+- [x] 03 配列とループ処理を組み合わせよう
+- [x] 04 配列の要素を変更してみよう
+- [x] 05 splice()で配列を変更してみよう
  - Issue  
-    https://github.com/Shirahamah/basic_javascript_objects/issues    
+    https://github.com/Shirahamah/basic_javascript_objects/issues/1    
  - 成果物  
     https://shirahamah.github.io/basic_javascript_objects/01/  
     https://shirahamah.github.io/basic_javascript_objects/02/  

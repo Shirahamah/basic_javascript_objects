@@ -16,13 +16,13 @@
     https://shirahamah.github.io/basic_javascript_objects/05/  
 
 ### 06~10
-- [ ] 06 スプレット構文を使ってみよう
-- [ ] 07 分割代入を使ってみよう
-- [ ] 08 foeEach()を使ってみよう
-- [ ] 09 map()を使ってみよう
-- [ ] 10 filter()を使ってみよう
+- [x] 06 スプレット構文を使ってみよう
+- [x] 07 分割代入を使ってみよう
+- [x] 08 foeEach()を使ってみよう
+- [x] 09 map()を使ってみよう
+- [x] 10 filter()を使ってみよう
  - Issue  
-    https://github.com/Shirahamah/basic_javascript_objects/issues  
+    https://github.com/Shirahamah/basic_javascript_objects/issues/3  
  - 成果物  
     https://shirahamah.github.io/basic_javascript_objects/06/  
     https://shirahamah.github.io/basic_javascript_objects/07/  

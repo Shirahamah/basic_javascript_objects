@@ -10,5 +10,7 @@
     }
 
     sum(...otherScores);
+
+    console.log(sum(10,20));
     // sum(10, 20); と同じ意味になる
 }

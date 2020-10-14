@@ -1,13 +1,13 @@
 ## 詳解javascript オブジェクト編 (全35回) 進捗確認
 
 ### 01~05
-- [ ] 01 配列を作ってみよう
-- [ ] 02 配列の要素にアクセスしてみよう
-- [ ] 03 配列とループ処理を組み合わせよう
-- [ ] 04 配列の要素を変更してみよう
-- [ ] 05 splice()で配列を変更してみよう
+- [x] 01 配列を作ってみよう
+- [x] 02 配列の要素にアクセスしてみよう
+- [x] 03 配列とループ処理を組み合わせよう
+- [x] 04 配列の要素を変更してみよう
+- [x] 05 splice()で配列を変更してみよう
  - Issue  
-    https://github.com/Shirahamah/basic_javascript_objects/issues    
+    https://github.com/Shirahamah/basic_javascript_objects/issues/1    
  - 成果物  
     https://shirahamah.github.io/basic_javascript_objects/01/  
     https://shirahamah.github.io/basic_javascript_objects/02/  
@@ -16,7 +16,7 @@
     https://shirahamah.github.io/basic_javascript_objects/05/  
 
 ### 06~10
-- [ ] 06 スプレっと構文を使ってみよう
+- [ ] 06 スプレット構文を使ってみよう
 - [ ] 07 分割代入を使ってみよう
 - [ ] 08 foeEach()を使ってみよう
 - [ ] 09 map()を使ってみよう

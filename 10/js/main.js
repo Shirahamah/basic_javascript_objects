@@ -11,7 +11,7 @@
     //     }
     // });
 
-    const evenNumbers = numbers.filter((number) => number % 2 === 0);
+    const evenNumbers = numbers.filter(number => number % 2 === 0);
 
     console.log(evenNumbers);
 }

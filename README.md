@@ -31,13 +31,13 @@
     https://shirahamah.github.io/basic_javascript_objects/10/  
 
 ### 11~15
-- [ ] 11 オブジェクトを作ってみよう
-- [ ] 12 プロパティを操作してみよう
-- [ ] 13 オブジェクトを操作してみよう
-- [ ] 14 object.keys()を使ってみよう
-- [ ] 15 変数を代入してみよう
+- [x] 11 オブジェクトを作ってみよう
+- [x] 12 プロパティを操作してみよう
+- [x] 13 オブジェクトを操作してみよう
+- [x] 14 object.keys()を使ってみよう
+- [x] 15 変数を代入してみよう
  - Issue  
-    https://github.com/Shirahamah/basic_javascript_objects/issues  
+    https://github.com/Shirahamah/basic_javascript_objects/issues/5  
  - 成果物  
     https://shirahamah.github.io/basic_javascript_objects/11/  
     https://shirahamah.github.io/basic_javascript_objects/12/  

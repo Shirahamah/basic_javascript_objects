@@ -9,5 +9,5 @@
     console.log(str.substring(2, 4));
 
     console.log(str[1]);
-    // str[1] = 'a'; 、stringに対してforEachは使えない
+    // str[1] = 'e'; 、stringに対してforEachは使えない
 }

@@ -61,11 +61,11 @@
     https://shirahamah.github.io/basic_javascript_objects/20/  
 
 ### 21~25
-- [ ] 21 現在日時を扱ってみよう
-- [ ] 22 特定の日時を扱ってみよう
-- [ ] 23 alert()、confirm()を使ってみよう
-- [ ] 24 setInterval()を使ってみよう
-- [ ] 25 setTimeout()を使ってみよう
+- [x] 21 現在日時を扱ってみよう
+- [x] 22 特定の日時を扱ってみよう
+- [x] 23 alert()、confirm()を使ってみよう
+- [x] 24 setInterval()を使ってみよう
+- [x] 25 setTimeout()を使ってみよう
  - Issue  
     https://github.com/Shirahamah/basic_javascript_objects/issues  
  - 成果物  

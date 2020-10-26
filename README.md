@@ -46,11 +46,11 @@
     https://shirahamah.github.io/basic_javascript_objects/15/  
 
 ### 16~20
-- [ ] 16 変数の挙動を理解しよう
-- [ ] 17 文字列を操作してみよう
-- [ ] 18 join()、split()を使ってみよう
-- [ ] 19 数値を操作してみよう
-- [ ] 20 ランダムな整数値を作ってみよう
+- [x] 16 変数の挙動を理解しよう
+- [x] 17 文字列を操作してみよう
+- [x] 18 join()、split()を使ってみよう
+- [x] 19 数値を操作してみよう
+- [x] 20 ランダムな整数値を作ってみよう
  - Issue  
     https://github.com/Shirahamah/basic_javascript_objects/issues  
  - 成果物  

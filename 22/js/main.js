@@ -7,6 +7,6 @@
     console.log(d);
     d.setDate(31); // 2019/12/01/10:20:30
     console.log(d);
-    d.setDate(d.getDate() + 3); //2019/12/04/10:20:30
+    d.setDate(d.getDate() + 3); //2019/12/04 10:20:30
     console.log(d);
 }

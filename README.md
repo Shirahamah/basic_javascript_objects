@@ -52,7 +52,7 @@
 - [x] 19 数値を操作してみよう
 - [x] 20 ランダムな整数値を作ってみよう
  - Issue  
-    https://github.com/Shirahamah/basic_javascript_objects/issues  
+    https://github.com/Shirahamah/basic_javascript_objects/issues/7  
  - 成果物  
     https://shirahamah.github.io/basic_javascript_objects/16/  
     https://shirahamah.github.io/basic_javascript_objects/17/  
@@ -67,7 +67,7 @@
 - [x] 24 setInterval()を使ってみよう
 - [x] 25 setTimeout()を使ってみよう
  - Issue  
-    https://github.com/Shirahamah/basic_javascript_objects/issues  
+    https://github.com/Shirahamah/basic_javascript_objects/issues/9  
  - 成果物  
     https://shirahamah.github.io/basic_javascript_objects/21/  
     https://shirahamah.github.io/basic_javascript_objects/22/  
@@ -76,13 +76,13 @@
     https://shirahamah.github.io/basic_javascript_objects/25/  
 
 ### 26~30
-- [ ] 26 タイマー処理の違いを理解しよう
-- [ ] 27 例外処理を使ってみよう
-- [ ] 28 オブジェクトが複数ある場合を考えよう
-- [ ] 29 メソッドを使ってみよう
-- [ ] 30 クラスの概念を理解しよう
+- [x] 26 タイマー処理の違いを理解しよう
+- [x] 27 例外処理を使ってみよう
+- [x] 28 オブジェクトが複数ある場合を考えよう
+- [x] 29 メソッドを使ってみよう
+- [x] 30 クラスの概念を理解しよう
  - Issue  
-    https://github.com/Shirahamah/basic_javascript_objects/issues  
+    https://github.com/Shirahamah/basic_javascript_objects/issues/11  
  - 成果物  
     https://shirahamah.github.io/basic_javascript_objects/26/  
     https://shirahamah.github.io/basic_javascript_objects/27/  
